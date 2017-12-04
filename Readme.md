@@ -6,7 +6,7 @@ This game was made using Game Maker Studio 2, using the integrated GML of the en
 
 ## Instalation
 
-You just have to download the project as a ZIP file, or clone the repository. Finally, open the main project file with Game Maker Studio 2.
+You just have to download the project as a ZIP file, or clone the repository. Finally, open the main project file with Game Maker Studio 2. I have not an executable, because it was made in the Trial demo version of the engine.
 
 ## About the Game
 
@@ -38,13 +38,16 @@ If you want to start everything from the start again, you can press the **R** ke
 
 ## Warnings
 
+* This is **NOT** based in a true story... well... I hope not.
 * Don't play this with your girlfriend at your side. You would sleep on the floor tonight.
 * The makers don't take any responsabilities for any damage that could happen playing this game with your girlfriend.
 * Money it's **NOT the only thing that really matters!** It was a joke, for God sake! Life is not only about money, hearts, a car, a house, and vacations... it's just that we didn't have so much time to improve the game and its message. 
 * Vegetables sucks... and **THAT is for real**!
 
-## Credits
+## Recomendations
+* Don't let your girlfriend/boyfriend get mad at you.
 
+# Credits
 * Game Design: Marcos Alcantara, Facundo Lipnik, Dante Costilla
 * Programming: Dante Costilla
 * Graphics:
