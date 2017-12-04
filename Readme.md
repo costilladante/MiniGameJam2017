@@ -4,6 +4,10 @@ This is one of the project made in the event which main theme was: "Healthy & Eq
 
 This game was made using Game Maker Studio 2, using the integrated GML of the engine.
 
+## Instalation
+
+You just have to download the project as a ZIP file, or clone the repository. Finally, open the main project file with Game Maker Studio 2.
+
 ## About the Game
 
 This game is (or intended to be) a funny cliché about being in a love relationship. In this game you control a man/woman/apache helicopter/*[insert **any** gender here]* who wears a blue t-shirt and tries to have a good relationship with a man/woman/*[insert **any** gender here]* who wears a pink t-shirt.
@@ -36,7 +40,7 @@ If you want to start everything from the start again, you can press the **R** ke
 
 * Don't play this with your girlfriend at your side. You would sleep on the floor tonight.
 * The makers don't take any responsabilities for any damage that could happen playing this game with your girlfriend.
-* Money it's **NOT the only thing that really matters** it was a joke, for God sake! Life is not only about money, hearts, a car, a house, and vacations... it's just that we didn't have so much time to improve the game and its message. 
+* Money it's **NOT the only thing that really matters!** It was a joke, for God sake! Life is not only about money, hearts, a car, a house, and vacations... it's just that we didn't have so much time to improve the game and its message. 
 * Vegetables sucks... and **THAT is for real**!
 
 ## Credits
